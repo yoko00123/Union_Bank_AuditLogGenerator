@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsysAlphaList", "InsysAlphaList.csproj", "{BE938653-E398-4C45-B5B6-1FA2809B5D62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE938653-E398-4C45-B5B6-1FA2809B5D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE938653-E398-4C45-B5B6-1FA2809B5D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE938653-E398-4C45-B5B6-1FA2809B5D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE938653-E398-4C45-B5B6-1FA2809B5D62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1BFA519-B737-4945-81C0-56B0D1939291}
+	EndGlobalSection
+EndGlobal

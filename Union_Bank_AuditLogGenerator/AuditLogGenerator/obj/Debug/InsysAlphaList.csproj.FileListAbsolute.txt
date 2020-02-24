@@ -1,0 +1,172 @@
+C:\Users\aldel\source\repos\InsysAlphaList\bin\Debug\InsysAlphaList.exe.config
+C:\Users\aldel\source\repos\InsysAlphaList\bin\Debug\InsysAlphaList.exe
+C:\Users\aldel\source\repos\InsysAlphaList\bin\Debug\InsysAlphaList.pdb
+C:\Users\aldel\source\repos\InsysAlphaList\obj\Debug\InsysAlphaList.csprojAssemblyReference.cache
+C:\Users\aldel\source\repos\InsysAlphaList\obj\Debug\InsysAlphaList.Properties.Resources.resources
+C:\Users\aldel\source\repos\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.GenerateResource.cache
+C:\Users\aldel\source\repos\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.CoreCompileInputs.cache
+C:\Users\aldel\source\repos\InsysAlphaList\obj\Debug\InsysAlphaList.exe
+C:\Users\aldel\source\repos\InsysAlphaList\obj\Debug\InsysAlphaList.pdb
+C:\Users\aldel\source\repos\InsysAlphaList\obj\Debug\InsysAlphaList.Login.resources
+C:\Users\aldel\source\repos\InsysAlphaList\obj\Debug\InsysAlphaList.Main.resources
+C:\Users\adelacerna.HO\Downloads\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.exe.config
+C:\Users\adelacerna.HO\Downloads\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.exe
+C:\Users\adelacerna.HO\Downloads\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.pdb
+C:\Users\adelacerna.HO\Downloads\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csprojAssemblyReference.cache
+C:\Users\adelacerna.HO\Downloads\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Login.resources
+C:\Users\adelacerna.HO\Downloads\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Main.resources
+C:\Users\adelacerna.HO\Downloads\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Properties.Resources.resources
+C:\Users\adelacerna.HO\Downloads\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.GenerateResource.cache
+C:\Users\adelacerna.HO\Downloads\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.CoreCompileInputs.cache
+C:\Users\adelacerna.HO\Downloads\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.exe
+C:\Users\adelacerna.HO\Downloads\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.pdb
+C:\Users\adelacerna.HO\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.exe.config
+C:\Users\adelacerna.HO\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.exe
+C:\Users\adelacerna.HO\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.pdb
+C:\Users\adelacerna.HO\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csprojAssemblyReference.cache
+C:\Users\adelacerna.HO\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Login.resources
+C:\Users\adelacerna.HO\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Main.resources
+C:\Users\adelacerna.HO\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Properties.Resources.resources
+C:\Users\adelacerna.HO\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.GenerateResource.cache
+C:\Users\adelacerna.HO\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.CoreCompileInputs.cache
+C:\Users\adelacerna.HO\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.exe
+C:\Users\adelacerna.HO\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.pdb
+C:\Users\adelacerna.HO\Desktop\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.exe.config
+C:\Users\adelacerna.HO\Desktop\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.exe
+C:\Users\adelacerna.HO\Desktop\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.pdb
+C:\Users\adelacerna.HO\Desktop\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csprojAssemblyReference.cache
+C:\Users\adelacerna.HO\Desktop\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Login.resources
+C:\Users\adelacerna.HO\Desktop\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Main.resources
+C:\Users\adelacerna.HO\Desktop\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Properties.Resources.resources
+C:\Users\adelacerna.HO\Desktop\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.GenerateResource.cache
+C:\Users\adelacerna.HO\Desktop\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.CoreCompileInputs.cache
+C:\Users\adelacerna.HO\Desktop\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.exe
+C:\Users\adelacerna.HO\Desktop\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.pdb
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.exe.config
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.exe
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.pdb
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.ResolveComReference.cache
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Login.resources
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Main.resources
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Properties.Resources.resources
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.GenerateResource.cache
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.exe
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.pdb
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.MessageForm.resources
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.ReportViewer.resources
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\FlashControlV71.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\stdole.dll
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csprojAssemblyReference.cache
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.CoreCompileInputs.cache
+C:\Users\adelacerna\Desktop\All About Alphalist\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.CopyComplete
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.exe.config
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.exe
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.pdb
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\FlashControlV71.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\stdole.dll
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csprojAssemblyReference.cache
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.ResolveComReference.cache
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Login.resources
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Main.resources
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.MessageForm.resources
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Properties.Resources.resources
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.ReportViewer.resources
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.GenerateResource.cache
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.CoreCompileInputs.cache
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.CopyComplete
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.exe
+C:\Users\adelacerna\Desktop\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.pdb
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\InsysAlphaList.exe.config
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\InsysAlphaList.exe
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\InsysAlphaList.pdb
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\FlashControlV71.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\stdole.dll
+C:\Users\adelacerna\Desktop\InsysAlphaList\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\adelacerna\Desktop\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.ResolveComReference.cache
+C:\Users\adelacerna\Desktop\InsysAlphaList\obj\Debug\InsysAlphaList.Login.resources
+C:\Users\adelacerna\Desktop\InsysAlphaList\obj\Debug\InsysAlphaList.Main.resources
+C:\Users\adelacerna\Desktop\InsysAlphaList\obj\Debug\InsysAlphaList.MessageForm.resources
+C:\Users\adelacerna\Desktop\InsysAlphaList\obj\Debug\InsysAlphaList.Properties.Resources.resources
+C:\Users\adelacerna\Desktop\InsysAlphaList\obj\Debug\InsysAlphaList.ReportViewer.resources
+C:\Users\adelacerna\Desktop\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.GenerateResource.cache
+C:\Users\adelacerna\Desktop\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.CoreCompileInputs.cache
+C:\Users\adelacerna\Desktop\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.CopyComplete
+C:\Users\adelacerna\Desktop\InsysAlphaList\obj\Debug\InsysAlphaList.exe
+C:\Users\adelacerna\Desktop\InsysAlphaList\obj\Debug\InsysAlphaList.pdb
+C:\Users\adelacerna\Desktop\InsysAlphaList\obj\Debug\InsysAlphaList.csprojAssemblyReference.cache
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.exe.config
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.exe
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\InsysAlphaList.pdb
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\Syncfusion.Licensing.dll
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\stdole.dll
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.ResolveComReference.cache
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Login.resources
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Main.resources
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.MessageForm.resources
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.Properties.Resources.resources
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.ReportViewer.resources
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.GenerateResource.cache
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.csproj.CopyComplete
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.exe
+C:\Yoku File\Alphalist_AppGenerator_v2\All About Alphalist - Copy\InsysAlphaList-20200113T002909Z-001\InsysAlphaList\obj\Debug\InsysAlphaList.pdb
