@@ -149,7 +149,7 @@ namespace InsysAlphaList
             {
              //   alphaID = Convert.ToInt32(ReferenceTxtbox.Text);
                 //Year = YearTxtbox.Text;
-                SqlDataAdapter da = new SqlDataAdapter("SELECT TOP 10000 * FROM vzAuditTrailCDC ORDER BY DateTimeModified DESC", "server = " + server + "; database = " + DBName + "; UID = " + uname + "; password = " + pass + "");
+                SqlDataAdapter da = new SqlDataAdapter("SELECT * FROM vzAuditTrailCDC ORDER BY DateTimeModified DESC", "server = " + server + "; database = " + DBName + "; UID = " + uname + "; password = " + pass + "");
                 DataSet ds = new DataSet();
                 da.Fill(ds, "tAuditTrail");
                 dataGridView1.DataSource = ds.Tables["tAuditTrail"].DefaultView;
